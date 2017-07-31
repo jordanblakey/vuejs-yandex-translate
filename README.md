@@ -1,0 +1,1 @@
+# vuejs-yandex-translate
